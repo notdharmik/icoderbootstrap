@@ -1,0 +1,6 @@
+
+@media only screen and (max-width: 500px){
+   .carousel-inner .carousel-item .d-block{
+       height: 300px;
+   }
+}
